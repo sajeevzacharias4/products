@@ -1,12 +1,12 @@
 {
   "listProducts":[
-    {"id":1, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":2, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":3, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":4, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":5, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":6, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null},
-    {"id":7, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice",675.00,"Image":"../assets/images/b1.jpg","Description":null}
+    {"id":1, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":2, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":3, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":4, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":5, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":6, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":7, "Name":"MESSENGER BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b1.jpg","Description":null}
 
   ]
 
