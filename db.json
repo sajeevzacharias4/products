@@ -11,7 +11,7 @@
     {"id":9, "Name":"SLING BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null},
     {"id":10, "Name":"TOTE (BLUE)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null},
     {"id":11, "Name":"MESSENGER BAG (PINK)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null},
-    {"id":12, "Name":"SHOULDER BAG (PINK)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null},
+    {"id":12, "Name":"SHOULDER BAG (PINK)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null}
 
   ]
 
