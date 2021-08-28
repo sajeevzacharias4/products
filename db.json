@@ -1,6 +1,6 @@
 {
   "listProducts":[
-    {"id":1, "Name":"MESSENGER BAG", "Price":990.00,"DiscountedPrice":1500.00,"Image":"../assets/images/b1.jpg","Description":null},
+    {"id":1, "Name":"MESSENGER BAG", "Price":9190.00,"DiscountedPrice":1500.00,"Image":"../assets/images/b1.jpg","Description":null},
       {"id":2, "Name":"SHOULDER BAG (PINK)", "Price":799.00,"DiscountedPrice":675.00,"Image":"..//assets//images//b2.jpg","Description":null},
     {"id":3, "Name":"SLING BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"..//assets//images//b3.jpg","Description":null},
     {"id":4, "Name":"TOTE (BLUE)", "Price":799.00,"DiscountedPrice":675.00,"Image":"..//assets//images//b4.jpg","Description":null},
