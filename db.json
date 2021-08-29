@@ -5,7 +5,12 @@
     {"id":3, "Name":"SLING BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b3.jpg","Description":null},
     {"id":4, "Name":"TOTE (BLUE)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b4.jpg","Description":null},
     {"id":5, "Name":"SHOULDER (ORANGE) BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b5.jpg","Description":null},
-    {"id":6, "Name":"SATCHEL (YELLOW)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b6.jpg","Description":null}
+    {"id":6, "Name":"SATCHEL (YELLOW)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b6.jpg","Description":null},
+     {"id":7, "Name":"HOBO (BLUE)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b7.jpg","Description":null},
+     {"id":8, "Name":"SATCHEL (PINK)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b8.jpg","Description":null},
+     {"id":9, "Name":"SLING BAG", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b9.jpg","Description":null},
+     {"id":10, "Name":"TOTE (BLUE)", "Price":799.00,"DiscountedPrice":675.00,"Image":"../assets/images/b10.jpg","Description":null},
+    
 
   
 
